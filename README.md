@@ -1,6 +1,6 @@
 <h3>Hi! &nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 <h1>I'm Bruno Brigido Vilanova</h1>
-<div align="center">
+<div>
   <a href="https://github.com/brunobrigidovilanova">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogiansouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogiansouza&layout=compact&langs_count=7&theme=dracula"/>
