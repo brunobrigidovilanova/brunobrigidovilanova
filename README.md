@@ -1,5 +1,5 @@
 <h1>Olá! &nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3>Eu sou Bruno Brigido Vilanova estudande de programação</h3>
+<h3>Eu sou Bruno Brigido Vilanova Desenvolvedor Full Stack</h3>
 <div>
   <a href="https://github.com/brunobrigidovilanova">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobrigidovilanova&layout=compact&langs_count=7&theme=dracula"/>
@@ -11,4 +11,6 @@
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
  </div>
